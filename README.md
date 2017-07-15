@@ -1,2 +1,2 @@
 # Khloe Aliapoh
-# Discord bot for FFXIV.
+<center># Discord bot for FFXIV.</center>
