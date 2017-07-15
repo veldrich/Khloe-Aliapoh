@@ -1,4 +1,4 @@
 # <p align="center">Khloe Aliapoh</p>
 ## <p align="center">Discord bot for FFXIV</p>
 <p align="center"></p>
-![khloe](/Khloe/khloe.jpg)
+![ScreenShot](https://raw.githubusercontent.com/veldrich/Khloe-Aliapoh/master/Khloe/khloe.jpg)
